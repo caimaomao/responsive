@@ -13,6 +13,8 @@
 
 
 ![Image text](https://github.com/caimaomao/responsive/blob/master/img/common.png)
+
+
 宽度小于480px
 
 
