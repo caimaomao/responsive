@@ -6,7 +6,14 @@
 实现的效果如下
 宽度大于800
 ![Image text](https://github.com/caimaomao/responsive/blob/master/img/big.png)
+
+
+
 宽度在480到800
+
+
 ![Image text](https://github.com/caimaomao/responsive/blob/master/img/common.png)
 宽度小于480px
+
+
 ![Image text](https://github.com/caimaomao/responsive/blob/master/img/small.png)
